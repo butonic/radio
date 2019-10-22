@@ -1,0 +1,6 @@
+github.com/fhs/gompd v2.0.0+incompatible h1:pv5XKTatya1k3r1woaWLwFQiF0BfAsgWSe5ev2XZ0UM=
+github.com/fhs/gompd v2.0.0+incompatible/go.mod h1:UVZXd9wmFBH5tIXLYeI+CGUIt15ZvtGQvVO6SDHy1os=
+github.com/pimvanhespen/go-pi-lcd1602 v0.0.0-20190131141158-a63b4ce9c9e1 h1:agGWkcKuLfapJ1nuVQoqTHKFCPeO85wk5xktO+P8j9Q=
+github.com/pimvanhespen/go-pi-lcd1602 v0.0.0-20190131141158-a63b4ce9c9e1/go.mod h1:jkb51sXCSIdPBqpTrtNQwvYW+jA9FcK9BvDtYINtB5U=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible h1:CUOlIxdJdT+H1obJPsmg8byu7jMSECLfAN9zynm5QGo=
+github.com/stianeikeland/go-rpio v4.2.0+incompatible/go.mod h1:Sh81rdJwD96E2wja2Gd7rrKM+XZ9LrwvN2w4IXrqLR8=
